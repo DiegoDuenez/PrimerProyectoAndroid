@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="@string/author"
         android:textAlignment="center"
-        android:background="#FF0404"
+        android:background="#E91E63"
         android:textSize="20dp"
 
 
